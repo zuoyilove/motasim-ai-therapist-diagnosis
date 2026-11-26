@@ -10,8 +10,8 @@ network and no third-party packages.
 import os
 
 DIAGNOSIS = (
-    "Diagnosis: chronic overthinking, complicated by the fact "
-    "that you were right about most of it."
+    "Diagnosis: you are not anxious about the future. You are "
+    "nostalgic for a past in which you were also anxious."
 )
 
 
